@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://olwplugins.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Open Live Writer Plugins"
 theme = "learn"
